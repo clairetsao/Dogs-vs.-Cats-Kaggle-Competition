@@ -4,11 +4,11 @@ The primary objective of this Kaggle competition is to predict whether an image 
 For more details, visit https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview
 
 
-**About the Dataset**
+## Dataset
 
 The training data comprises 25,000 images of dogs and cats, with labels embedded in filenames. The test set has 12,500 images identified by numeric IDs. The challenge is to predict the probability of an image being a dog (1 = dog, 0 = cat).
 
-**Predictive Models**
+## Predictive Models
 
 Experimentation involved three pre-trained models for binary classification:
 
@@ -16,7 +16,7 @@ Experimentation involved three pre-trained models for binary classification:
 2. ResNet50
 3. Xception
 
-**Final Results**
+## Final Results
 
 Kaggle Score
 - VGG16 Model: 0.1667
